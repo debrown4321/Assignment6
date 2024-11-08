@@ -35,10 +35,18 @@
 		<type fullname="UnityEngine.Animator">
 			<method name="Play"/>
 			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
 		</type>
 	</assembly>
 	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
 		<type fullname="UnityEngine.Renderer">
+			<method name="set_enabled"/>
+			<method name="set_enabled"/>
+			<method name="set_enabled"/>
+			<method name="set_enabled"/>
 			<method name="set_enabled"/>
 			<method name="set_enabled"/>
 		</type>

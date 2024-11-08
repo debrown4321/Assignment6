@@ -1,5 +1,9 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
+		<type fullname="anote" preserve="nothing"/>
+		<type fullname="bnote" preserve="nothing"/>
+		<type fullname="cnote" preserve="nothing"/>
+		<type fullname="gnote" preserve="nothing"/>
 		<type fullname="playsound" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Meta.XR.Audio">
@@ -34,16 +38,13 @@
 	</assembly>
 	<assembly fullname="meta.xr.mrutilitykit">
 		<type fullname="FindSpawnPositions" preserve="nothing"/>
-		<type fullname="Meta.XR.MRUtilityKit.AnchorPrefabSpawner" preserve="nothing"/>
 		<type fullname="Meta.XR.MRUtilityKit.EffectMesh" preserve="nothing"/>
 		<type fullname="Meta.XR.MRUtilityKit.MRUK" preserve="nothing"/>
 		<type fullname="Meta.XR.MRUtilityKit.RoomGuardian" preserve="nothing"/>
 		<type fullname="Meta.XR.MRUtilityKit.SceneDebugger" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Meta.XR.MultiplayerBlocks.Shared">
-		<type fullname="Meta.XR.MultiplayerBlocks.Shared.ColocationController" preserve="nothing"/>
 		<type fullname="Meta.XR.MultiplayerBlocks.Shared.PlatformInit_" preserve="nothing"/>
-		<type fullname="Meta.XR.MultiplayerBlocks.Shared.PlayerNameTagSpawner" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Oculus.Interaction">
 		<type fullname="Oculus.Interaction.ActiveStateGate" preserve="nothing"/>
@@ -221,8 +222,13 @@
 		<type fullname="UnityEngine.Rendering.Universal.XRSystemData" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.TextMeshPro" preserve="nothing"/>
 		<type fullname="TMPro.TextMeshProUGUI" preserve="nothing"/>
 		<type fullname="TMPro.TMP_Dropdown" preserve="nothing"/>
+		<type fullname="TMPro.TMP_FontAsset" preserve="nothing"/>
+		<type fullname="TMPro.TMP_Settings" preserve="nothing"/>
+		<type fullname="TMPro.TMP_SpriteAsset" preserve="nothing"/>
+		<type fullname="TMPro.TMP_StyleSheet" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.XR.Management">
 		<type fullname="UnityEngine.XR.Management.XRGeneralSettings" preserve="nothing"/>
