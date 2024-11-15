@@ -1,6 +1,11 @@
 -target:library
+<<<<<<< Updated upstream:assn6/Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.rsp
 -out:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.dll"
 -refout:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.ref.dll"
+=======
+-out:"Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ForUI.dll"
+-refout:"Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ForUI.ref.dll"
+>>>>>>> Stashed changes:assn6/Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ForUI.rsp
 -define:UNITY_2022_3_43
 -define:UNITY_2022_3
 -define:UNITY_2022
@@ -355,6 +360,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.43f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.43f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+<<<<<<< Updated upstream:assn6/Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.rsp
 "Library/PackageCache/com.unity.xr.oculus@4.2.0/Runtime/ColorScale.cs"
 "Library/PackageCache/com.unity.xr.oculus@4.2.0/Runtime/Device.cs"
 "Library/PackageCache/com.unity.xr.oculus@4.2.0/Runtime/EnvironmentDepth.cs"
@@ -371,6 +377,10 @@
 "Library/PackageCache/com.unity.xr.oculus@4.2.0/Runtime/OculusSettings.cs"
 "Library/PackageCache/com.unity.xr.oculus@4.2.0/Runtime/OculusUsages.cs"
 "Library/PackageCache/com.unity.xr.oculus@4.2.0/Runtime/RegisterUpdateCallback.cs"
+=======
+"Library/PackageCache/com.unity.inputsystem@1.7.0/InputSystem/Plugins/InputForUI/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.inputsystem@1.7.0/InputSystem/Plugins/InputForUI/InputSystemProvider.cs"
+>>>>>>> Stashed changes:assn6/Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ForUI.rsp
 -langversion:9.0
 /deterministic
 /optimize+

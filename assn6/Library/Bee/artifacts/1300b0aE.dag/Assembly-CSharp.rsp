@@ -462,10 +462,18 @@
 "Assets/bnote.cs"
 "Assets/cnote.cs"
 "Assets/gnote.cs"
+<<<<<<< Updated upstream
 "Assets/playsound.cs"
 "Assets/puzzlesolved.cs"
 "Assets/scoretrigger.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
+=======
+"Assets/GreenFloor.cs"
+"Assets/playsound.cs"
+"Assets/puzzlesolved.cs"
+"Assets/RedFloor.cs"
+"Assets/YellowFloor.cs"
+>>>>>>> Stashed changes
 -langversion:9.0
 /deterministic
 /optimize+

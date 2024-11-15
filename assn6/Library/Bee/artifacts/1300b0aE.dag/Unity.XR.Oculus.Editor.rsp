@@ -1,6 +1,11 @@
 -target:library
+<<<<<<< Updated upstream:assn6/Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.Editor.rsp
 -out:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.Editor.dll"
 -refout:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.Editor.ref.dll"
+=======
+-out:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll"
+-refout:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.ref.dll"
+>>>>>>> Stashed changes:assn6/Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.rsp
 -define:UNITY_2022_3_43
 -define:UNITY_2022_3
 -define:UNITY_2022
@@ -365,10 +370,16 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.43f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.43f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+<<<<<<< Updated upstream:assn6/Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.Editor.rsp
 "Library/PackageCache/com.unity.xr.oculus@4.2.0/Editor/OculusBuildProcessor.cs"
 "Library/PackageCache/com.unity.xr.oculus@4.2.0/Editor/OculusMetadata.cs"
 "Library/PackageCache/com.unity.xr.oculus@4.2.0/Editor/OculusProjectValidator.cs"
 "Library/PackageCache/com.unity.xr.oculus@4.2.0/Editor/OculusSettingsEditor.cs"
+=======
+"Library/PackageCache/com.unity.xr.openxr@1.13.0/MetaQuest/Editor/BuildTargetSupport/MetaQuestFeatureBuildHooks.cs"
+"Library/PackageCache/com.unity.xr.openxr@1.13.0/MetaQuest/Editor/MetaQuestFeatureEditor.cs"
+"Library/PackageCache/com.unity.xr.openxr@1.13.0/MetaQuest/Editor/ModifyAndroidManifestMeta.cs"
+>>>>>>> Stashed changes:assn6/Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.rsp
 -langversion:9.0
 /deterministic
 /optimize+
