@@ -7,8 +7,6 @@ public class RedFloor : MonoBehaviour
 {
     public int orderIndex; // The order of this panel in the rainbow sequence
 
-    public delegate void PanelSteppedOn(int index);
-    public static event PanelSteppedOn OnPanelStepped;
     public TMP_Text orderCurrent;
     public GameObject door;
 

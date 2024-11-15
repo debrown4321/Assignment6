@@ -122,7 +122,6 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:USE_INPUT_SYSTEM_POSE_CONTROL
 -define:USE_STICK_CONTROL_THUMBSTICKS
--define:DEPTH_API_SUPPORTED
 -define:OVR_UNITY_PACKAGE_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
@@ -366,7 +365,6 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Meta.XR.Guides.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Oculus.VR.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Oculus.VR.ref.dll"
--r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.ref.dll"

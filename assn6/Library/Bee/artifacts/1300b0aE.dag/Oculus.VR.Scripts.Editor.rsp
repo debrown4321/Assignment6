@@ -123,11 +123,7 @@
 -define:USE_INPUT_SYSTEM_POSE_CONTROL
 -define:USE_STICK_CONTROL_THUMBSTICKS
 -define:USING_XR_MANAGEMENT
--define:USING_XR_SDK_OCULUS
--define:__OVERRIDED__PRIORITIZE_OCULUS_XR_SETTINGS
--define:USING_QUEST_PRO_COMPATIBLE_OCULUS_XR_PLUGIN_VERSION
--define:OCULUS_XR_DEPTH_SUBMISSION
--define:OCULUS_XR_3_3_0_OR_NEWER
+-define:USING_XR_SDK_OPENXR
 -define:USING_META_XR_SIMULATOR
 -define:OVR_UNITY_PACKAGE_MANAGER
 -define:CSHARP_7_OR_LATER
@@ -367,7 +363,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Oculus.VR.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Management.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Management.ref.dll"
--r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.ref.dll"
