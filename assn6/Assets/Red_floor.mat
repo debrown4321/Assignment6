@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Red_floor
+  m_Name: New Material
   m_Shader: {fileID: -6465566751694194690, guid: 18ba40e4dfef54d3fab0dadc61273f3e,
     type: 3}
   m_Parent: {fileID: 0}
