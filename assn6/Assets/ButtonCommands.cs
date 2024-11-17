@@ -12,7 +12,7 @@ public class ButtonCommands : MonoBehaviour
     public TextMeshProUGUI num1, num2, num3, num4;
     public Image upArrow, downArrow, highlight;
     public Animator openDoor;
-    private bool doorOpen = false;
+    public bool doorOpen = false;
 
 
     // Start is called before the first frame update
