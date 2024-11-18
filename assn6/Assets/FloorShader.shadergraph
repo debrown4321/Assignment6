@@ -80,9 +80,6 @@
         },
         {
             "m_Id": "86fe81c00c744eda8ea4cbea5f637518"
-        },
-        {
-            "m_Id": "e80b31d536e94812a6312989863aed15"
         }
     ],
     "m_GroupDatas": [],
@@ -746,10 +743,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -562.0001220703125,
-            "y": -158.99998474121095,
-            "width": 208.00006103515626,
-            "height": 301.99993896484377
+            "x": -561.9999389648438,
+            "y": 49.5,
+            "width": 208.0,
+            "height": 301.9999694824219
         }
     },
     "m_Slots": [
@@ -959,21 +956,6 @@
     },
     "m_Labels": [],
     "m_Space": 0
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "6c30ba86f1cf49ecb9e10d887fc27bd5",
-    "m_Id": 0,
-    "m_DisplayName": "Pulse Speed",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Out",
-    "m_StageCapability": 3,
-    "m_Value": 0.0,
-    "m_DefaultValue": 0.0,
-    "m_Labels": []
 }
 
 {
@@ -1829,42 +1811,6 @@
 }
 
 {
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
-    "m_ObjectId": "e80b31d536e94812a6312989863aed15",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "Property",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": -1472.5831298828125,
-            "y": 220.48291015625,
-            "width": 0.0,
-            "height": 0.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "6c30ba86f1cf49ecb9e10d887fc27bd5"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_Property": {
-        "m_Id": "c96c2049a75645b5a2b8787540951c6a"
-    }
-}
-
-{
     "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
     "m_ObjectId": "ea40489b17f442b9b9bad1b23ce62b17",
@@ -2074,10 +2020,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -306.9998779296875,
-            "y": 442.0,
-            "width": 207.99984741210938,
-            "height": 325.99993896484377
+            "x": -310.5,
+            "y": 359.5000305175781,
+            "width": 208.0,
+            "height": 326.0000305175781
         }
     },
     "m_Slots": [
