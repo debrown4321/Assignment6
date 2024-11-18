@@ -1,33 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/carolinecunningham/Assignment6/assn6/Packages/manifest.json
+    m_FilePath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638664587280000000
-    m_Hash: 3095719826
+      ticks: 638672872940000000
+    m_Hash: 629077723
   m_LockFileStatus:
-    m_FilePath: /Users/carolinecunningham/Assignment6/assn6/Packages/packages-lock.json
+    m_FilePath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638664587280000000
-    m_Hash: 2799908422
+      ticks: 638672872940000000
+    m_Hash: 3478460453
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/carolinecunningham/Assignment6/assn6/Packages
-m_EditorVersion: 2022.3.42f1 (2dcb6a0abc42)
+m_ProjectPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Packages
+m_EditorVersion: 2022.3.43f1 (85497d293fa1)
 m_ResolvedPackages:
 - packageId: com.meta.xr.sdk.all@69.0.1
   testable: 0
   isDirectDependency: 1
   version: 69.0.1
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.all@69.0.1
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.all@69.0.1
   assetPath: Packages/com.meta.xr.sdk.all
   name: com.meta.xr.sdk.all
   displayName: Meta XR All-in-One SDK
@@ -162,7 +162,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.5.2
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.collab-proxy@2.5.2
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.collab-proxy@2.5.2
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -309,7 +309,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.31
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.ide.rider@3.0.31
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.ide.rider@3.0.31
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -414,7 +414,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.22
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.ide.visualstudio@2.0.22
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.ide.visualstudio@2.0.22
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -504,7 +504,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.ide.vscode@1.2.5
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -573,7 +573,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 14.0.11
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.render-pipelines.universal@14.0.11
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.render-pipelines.universal@14.0.11
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal RP
@@ -716,7 +716,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.test-framework@1.1.33
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -856,7 +856,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.textmeshpro@3.0.6
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1052,7 +1052,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.6
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.timeline@1.7.6
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.timeline@1.7.6
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1222,7 +1222,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.ugui@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1295,7 +1295,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.4
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.visualscripting@1.9.4
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.visualscripting@1.9.4
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1396,7 +1396,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.5.0
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.xr.management@4.5.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.xr.management@4.5.0
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -1530,12 +1530,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.xr.openxr@1.11.0
+- packageId: com.unity.xr.openxr@1.13.0
   testable: 0
   isDirectDependency: 1
-  version: 1.11.0
+  version: 1.13.0
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.xr.openxr@1.11.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.xr.openxr@1.13.0
   assetPath: Packages/com.unity.xr.openxr
   name: com.unity.xr.openxr
   displayName: OpenXR Plugin
@@ -1544,7 +1544,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: OpenXR is an open, royalty-free standard developed by Khronos that
     aims to simplify AR/VR development by allowing developers to target a wide range
     of AR/VR devices. Use this plug-in to enable OpenXR in XR Plug-in Management.
@@ -1585,14 +1585,13 @@ m_ResolvedPackages:
     - 1.12.0
     - 1.12.1
     - 1.13.0
+    - 1.13.1
     compatible:
-    - 1.11.0
-    - 1.11.1-exp.1
-    - 1.12.0-exp.1
     - 1.12.0
     - 1.12.1
     - 1.13.0
-    recommended: 1.11.0
+    - 1.13.1
+    recommended: 1.12.1
     deprecated: []
   dependencies:
   - name: com.unity.inputsystem
@@ -1643,16 +1642,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638509290420000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.11/manual/index.html
+  datePublishedTicks: 638639806147700000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.13/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/xr.sdk.openxr.git
-    revision: e70a67560a5a88cc6b92e0ef7923c57ba38755a7
+    revision: e0d9b71899340c28c5c9c0833055cb4fae78fffb
     path: 
   unityLifecycle:
-    version: 1.11.0
+    version: 1.12.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -1665,7 +1664,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.ai@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1721,7 +1720,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.androidjni@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1776,7 +1775,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.animation@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1832,7 +1831,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1888,7 +1887,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.audio@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1944,7 +1943,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.cloth@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2004,7 +2003,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.director@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2068,7 +2067,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2125,7 +2124,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.imgui@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2181,7 +2180,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2237,7 +2236,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2293,7 +2292,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.physics@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2349,7 +2348,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.physics2d@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2405,7 +2404,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.screencapture@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2465,7 +2464,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.terrain@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2521,7 +2520,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2585,7 +2584,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.tilemap@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2644,7 +2643,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.ui@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2700,7 +2699,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.uielements@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2768,7 +2767,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.umbra@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2824,7 +2823,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2888,7 +2887,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2944,7 +2943,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -3008,7 +3007,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -3072,7 +3071,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3136,7 +3135,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3216,7 +3215,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.vehicles@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3276,7 +3275,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.video@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3344,7 +3343,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.vr@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3414,7 +3413,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.wind@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3470,7 +3469,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.xr@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3538,7 +3537,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.modules.subsystems@1.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3598,7 +3597,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.7.0
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.inputsystem@1.7.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.inputsystem@1.7.0
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -3732,7 +3731,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.3.0
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.xr.core-utils@2.3.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.xr.core-utils@2.3.0
   assetPath: Packages/com.unity.xr.core-utils
   name: com.unity.xr.core-utils
   displayName: XR Core Utilities
@@ -3834,7 +3833,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.10
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -3939,7 +3938,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.ext.nunit@1.0.6
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4011,7 +4010,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.mathematics@1.2.6
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4088,7 +4087,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.17
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.burst@1.8.17
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.burst@1.8.17
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -4285,7 +4284,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.11
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.render-pipelines.core@14.0.11
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.render-pipelines.core@14.0.11
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -4464,7 +4463,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.11
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.shadergraph@14.0.11
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.shadergraph@14.0.11
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4640,7 +4639,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.10
   source: 2
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.render-pipelines.universal-config@14.0.10
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.render-pipelines.universal-config@14.0.10
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal RP Config
@@ -4711,7 +4710,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 69.0.1
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.core@69.0.1
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.core@69.0.1
   assetPath: Packages/com.meta.xr.sdk.core
   name: com.meta.xr.sdk.core
   displayName: Meta XR Core SDK
@@ -4799,7 +4798,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 69.0.0
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.audio@69.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.audio@69.0.0
   assetPath: Packages/com.meta.xr.sdk.audio
   name: com.meta.xr.sdk.audio
   displayName: Meta XR Audio SDK
@@ -4882,7 +4881,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 69.0.0
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.voice@69.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.voice@69.0.0
   assetPath: Packages/com.meta.xr.sdk.voice
   name: com.meta.xr.sdk.voice
   displayName: Meta - Voice SDK - Immersive Voice Commands
@@ -4959,7 +4958,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 69.0.0
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.meta.xr.simulator@69.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.meta.xr.simulator@69.0.0
   assetPath: Packages/com.meta.xr.simulator
   name: com.meta.xr.simulator
   displayName: Meta XR Simulator
@@ -4981,6 +4980,7 @@ m_ResolvedPackages:
     - 62.0.0
     - 64.0.0
     - 65.0.0
+    - 66.0.0
     - 66.0.1
     - 68.0.0
     - 69.0.0
@@ -4991,6 +4991,7 @@ m_ResolvedPackages:
     - 62.0.0
     - 64.0.0
     - 65.0.0
+    - 66.0.0
     - 66.0.1
     - 68.0.0
     - 69.0.0
@@ -5035,7 +5036,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 69.0.1
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.haptics@69.0.1
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.haptics@69.0.1
   assetPath: Packages/com.meta.xr.sdk.haptics
   name: com.meta.xr.sdk.haptics
   displayName: Meta XR Haptics SDK
@@ -5123,7 +5124,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 69.0.1
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.meta.xr.mrutilitykit@69.0.1
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.meta.xr.mrutilitykit@69.0.1
   assetPath: Packages/com.meta.xr.mrutilitykit
   name: com.meta.xr.mrutilitykit
   displayName: Meta MR Utility Kit
@@ -5226,7 +5227,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 69.0.0
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.platform@69.0.0
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.platform@69.0.0
   assetPath: Packages/com.meta.xr.sdk.platform
   name: com.meta.xr.sdk.platform
   displayName: Meta XR Platform SDK
@@ -5253,6 +5254,7 @@ m_ResolvedPackages:
     - 65.0.0
     - 66.0.0
     - 67.0.0
+    - 67.0.1
     - 68.0.0
     - 69.0.0
     compatible:
@@ -5266,6 +5268,7 @@ m_ResolvedPackages:
     - 65.0.0
     - 66.0.0
     - 67.0.0
+    - 67.0.1
     - 68.0.0
     - 69.0.0
     recommended: 
@@ -5319,7 +5322,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 69.0.1
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.interaction@69.0.1
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.interaction@69.0.1
   assetPath: Packages/com.meta.xr.sdk.interaction
   name: com.meta.xr.sdk.interaction
   displayName: Meta XR Interaction SDK Essentials
@@ -5421,7 +5424,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 69.0.2
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.interaction.ovr@69.0.2
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.meta.xr.sdk.interaction.ovr@69.0.2
   assetPath: Packages/com.meta.xr.sdk.interaction.ovr
   name: com.meta.xr.sdk.interaction.ovr
   displayName: "Meta XR Interaction \u200BSDK"
@@ -5446,10 +5449,12 @@ m_ResolvedPackages:
     - 64.0.0
     - 65.0.0
     - 66.0.0
+    - 67.0.0
     - 67.0.1
     - 68.0.0
     - 68.0.1
     - 68.0.2
+    - 69.0.0
     - 69.0.1
     - 69.0.2
     compatible:
@@ -5462,10 +5467,12 @@ m_ResolvedPackages:
     - 64.0.0
     - 65.0.0
     - 66.0.0
+    - 67.0.0
     - 67.0.1
     - 68.0.0
     - 68.0.1
     - 68.0.2
+    - 69.0.0
     - 69.0.1
     - 69.0.2
     recommended: 
@@ -5529,7 +5536,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.2
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.searcher@4.9.2
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.searcher@4.9.2
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -5602,7 +5609,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.5
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.ai.navigation@1.1.5
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.ai.navigation@1.1.5
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -5676,7 +5683,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.2.1
   source: 1
-  resolvedPath: /Users/carolinecunningham/Assignment6/assn6/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1
+  resolvedPath: /Users/erica_birdsong/Documents/GitHub/Assignment6/assn6/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -5750,4 +5757,4 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-m_BuiltInPackagesHash: aee274f1cc3a449a7bcb0ab99baf64c1bcf18ae8
+m_BuiltInPackagesHash: 463cd7c3d3028ae55c3f682d531a4209aca9b4f3
