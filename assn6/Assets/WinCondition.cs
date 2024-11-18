@@ -11,28 +11,31 @@ public class WinCondition : MonoBehaviour
     public GameObject HourHand;
     //public GameObject MinuteHand;
     public GameObject door;
+    private int ClockGrabCount;
 
-    private Vector3 targetHourRotation = new Vector3(0, 0, 56);
-    private float rotationThreshold = 0.1f;
+    //private Vector3 targetHourRotation = new Vector3(0, 0, 56);
+    //private float rotationThreshold = 0.1f;
 
     // Start is called before the first frame update
     void Start()
     {
-        CheckWinCondition();
+        //CheckWinCondition();
     }
 
     // Update is called once per frame
     void Update()
     {
-        CheckWinCondition();
+        //CheckWinCondition();
     }
 
-    void CheckWinCondition()
+    void IncrementGrabCount()
     {
-        Vector3 hourHandRotation = HourHand.transform.eulerAngles;
+        ClockGrabCount++;
+        Debug.Log("Clock grabbed:" + ClockGrabCount + "times");
+
 
         //if (ApproximatelyEqual(hourHandRotation, targetHourRotation))
-        if (hourHandRotation == targetHourRotation) { 
+        if (ClockGrabCount == 2) { 
             Destroy(door);
             Debug.Log("You Won!");
         }
