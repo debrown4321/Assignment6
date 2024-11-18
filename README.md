@@ -9,4 +9,10 @@ In the clock room, there are two items on each table. Tap on the clock with the 
 In the color room, there are colored tiles on the floor. Step on the tiles in the order of the colors on the wall.  
   
 [caroline playing the game](https://youtube.com/shorts/d-r26XYbzQY?feature=share)  
-[reflecting on game](https://youtu.be/8eB658-9XzM)
+[reflecting on game](https://youtu.be/8eB658-9XzM)  
+
+Assets used:  
+[balloons](https://assetstore.unity.com/publishers/67263)  
+[cake](https://assetstore.unity.com/publishers/67841)  
+[sky](https://assetstore.unity.com/publishers/5217)  
+[walls/tables/floor basics](https://assetstore.unity.com/publishers/27472)
